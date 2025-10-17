@@ -1,7 +1,0 @@
-CREATE TABLE IF NOT EXISTS convidados (
-  id INTEGER PRIMARY KEY AUTOINCREMENT,
-  nome TEXT NOT NULL,
-  tamanho_fralda TEXT NOT NULL,
-  confirmado BOOLEAN DEFAULT 0
-);
-

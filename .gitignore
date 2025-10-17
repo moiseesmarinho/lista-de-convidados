@@ -1,0 +1,20 @@
+# Ignore Maven build output
+/target/
+
+# Ignore IntelliJ IDEA / VS Code settings
+/.idea/
+/.vscode/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore database files
+*.db
+
+# Ignore compiled class files
+*.class
