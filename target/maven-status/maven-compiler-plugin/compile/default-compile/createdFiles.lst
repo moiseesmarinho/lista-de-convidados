@@ -1,0 +1,10 @@
+br\com\lista\controller\ConvidadoController.class
+br\com\lista\database\ConexaoSQLite.class
+br\com\lista\database\TabelaConvidado.class
+br\com\lista\TesteCRUD.class
+br\com\lista\ListaConvidadosApplication.class
+br\com\lista\MeuConsole.class
+br\com\lista\model\Convidado.class
+br\com\lista\TestaConexao.class
+br\com\lista\controller\HealthController.class
+br\com\lista\service\ListaConvidados.class
